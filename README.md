@@ -1,9 +1,6 @@
 ## Hello ✌
 
-
-
-Me chamo Paulo, sou formado em Analise e Desenvolvimento de Sistemas, tenho um bom conhecimento sobre Front-ende e agora estou focado no back-end com a linguaem JAVA
-  
+Me chamo Paulo, sou formado em Analise e Desenvolvimento de Sistemas, tenho um bom conhecimento sobre Front-end e agora estou focado no back-end com a linguagem JAVA.
 <br><br>
 🔎 Procurando novas oportunidades <br>
 📍   Rio de Janeiro - RJ<br>  
@@ -12,7 +9,6 @@ Me chamo Paulo, sou formado em Analise e Desenvolvimento de Sistemas, tenho um b
 <div style="display: inline_block"><br>  
 <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
