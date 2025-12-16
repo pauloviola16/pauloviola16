@@ -2,9 +2,8 @@
 
 
 
-Me chamo Paulo, sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
+Me chamo Paulo, sou formado em Analise e Desenvolvimento de Sistemas, tenho um bom conhecimento sobre Front-ende e agora estou focado no back-end com a linguaem JAVA
   
-Atualmente estou focado em aprender java,e estou finalizando minha gradução em Analise e desenvolvimento de sistemas. Estou buscando meu primeiro emprego  🚀
 <br><br>
 🔎 Procurando novas oportunidades <br>
 📍   Rio de Janeiro - RJ<br>  
