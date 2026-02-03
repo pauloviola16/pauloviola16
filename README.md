@@ -7,5 +7,6 @@ Conhecimentos em:
 - Streams (map, filter, reduce)
 - Optional e exceções
 - JDBC E JPA (em progresso)
+- Spring Boot (em progresso)
 
 Praticando com exercícios e projetos em Java puro.
