@@ -10,8 +10,6 @@ Conhecimentos em:
 
 Praticando com exercícios e projetos em Java puro.
 
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloviola16&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact)
 
 
