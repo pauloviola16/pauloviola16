@@ -9,3 +9,5 @@ Conhecimentos em:
 - Spring Boot (em progresso)
 
 Praticando com exercícios e projetos em Java puro.
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloviola16&show_icons=true&theme=dark)
