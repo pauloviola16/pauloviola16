@@ -12,5 +12,6 @@ Praticando com exercícios e projetos em Java puro.
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloviola16&layout=compact)
+
 
