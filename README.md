@@ -1,15 +1,43 @@
 # Paulo Viola 👨‍💻
 
 Desenvolvedor Backend Java em formação 🚀  
-Foco em APIs REST, persistência de dados e boas práticas de código.
+Foco em APIs REST, persistência de dados e boas práticas de desenvolvimento.
 
-Construindo base sólida em lógica, Programação Orientada a Objetos e desenvolvimento backend com Java.
+Construindo uma base sólida em lógica de programação, Programação Orientada a Objetos e desenvolvimento backend com Java.
 
 ---
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedor Backend Java.
+Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, aplicando conhecimentos em **Java, Spring Boot e desenvolvimento de APIs REST**.
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🔹 User Management API
+
+API REST para gerenciamento de usuários desenvolvida com arquitetura em camadas.
+
+**Tecnologias utilizadas:**
+
+- Java
+- Spring Boot
+- JPA / Hibernate
+- SQL
+- Maven
+- Postman
+- Git & GitHub
+
+**Principais funcionalidades:**
+
+- CRUD completo de usuários
+- Arquitetura em camadas (Controller, Service, Repository)
+- Persistência de dados com JPA/Hibernate
+- Teste de endpoints com Postman
+
+📂 Repositório:  
+github.com/pauloviola16/user-management-api
 
 ---
 
@@ -17,12 +45,11 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java.
 
 - Java 8+
 - Programação Orientada a Objetos (POO)
-- Collections & Streams (map, filter, reduce)
-- Tratamento de exceções
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
 - SQL / MySQL
 - JDBC
-- JPA (em evolução)
-- Spring Boot (em evolução)
 - Git & GitHub
 
 ---
@@ -33,10 +60,10 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java.
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Outros Projetos
 
 🔹 **java-fundamentos**  
-Base sólida em lógica, controle de fluxo, métodos, arrays e POO.
+Base sólida em lógica, controle de fluxo, métodos, arrays e Programação Orientada a Objetos.
 
 🔹 **java-avancado**  
 Collections, Generics e tratamento de exceções aplicados ao backend.
@@ -48,10 +75,9 @@ Estudos sobre SQL, JDBC e JPA, com foco em modelagem relacional, CRUD e integra�
 
 ## 📫 Contato
 
-- 📍 Rio de Janeiro - RJ  
-- 📧 pcviola.dev@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/paulo-viola
-
+📍 Rio de Janeiro - RJ  
+📧 pcviola.dev@gmail.com  
+💼 LinkedIn: linkedin.com/in/paulo-viola
 
 
 
