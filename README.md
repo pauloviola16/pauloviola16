@@ -15,6 +15,13 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 
 ## 🛠 Stack Atual
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 - Java 8+
 - Programação Orientada a Objetos (POO)
 - Collections & Streams
@@ -78,6 +85,5 @@ Estudos sobre SQL, JDBC e JPA, com foco em modelagem relacional, CRUD e integra�
 📍 Rio de Janeiro - RJ  
 📧 pcviola.dev@gmail.com  
 💼 LinkedIn: linkedin.com/in/paulo-viola
-
 
 
