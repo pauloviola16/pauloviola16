@@ -40,26 +40,31 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
-### User Management API
+### 📦 Order Management API
+
+API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**, aplicando arquitetura em camadas e boas práticas de mercado.
+
+**Destaques:**
+- CRUD completo de pedidos
+- Uso de DTOs (Request/Response)
+- Validação de dados e tratamento de exceções
+- Integração com MySQL via JPA/Hibernate
+
+📂 Repositório  
+https://github.com/pauloviola16/order-management-api
+
+---
+
+### 👤 User Management API
 
 API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas.
 
-**Tecnologias utilizadas:**
-
-- Java
-- Spring Boot
-- JPA / Hibernate
-- SQL
-- Maven
-- Postman
-
-**Principais funcionalidades:**
-
+**Destaques:**
 - CRUD completo de usuários
 - Estrutura em camadas (Controller, Service, Repository)
-- Persistência de dados com JPA/Hibernate
+- Persistência com JPA/Hibernate
 - Testes de endpoints com Postman
 
 📂 Repositório  
@@ -85,5 +90,3 @@ Estudos sobre SQL, JDBC e JPA, com foco em modelagem relacional, CRUD e integra�
 📍 Rio de Janeiro - RJ  
 📧 pcviola.dev@gmail.com  
 💼 LinkedIn: linkedin.com/in/paulo-viola
-
-
