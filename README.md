@@ -53,8 +53,7 @@ API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**,
 - Validação de dados e tratamento de exceções
 - Integração com MySQL via JPA/Hibernate
 
-📂 Repositório  
-https://github.com/pauloviola16/order-management-api
+🔗 [Acessar repositório](https://github.com/pauloviola16/order-management-api)
 
 ---
 
@@ -67,8 +66,7 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - Estrutura em camadas (Controller, Service, Repository)
 - Persistência com JPA/Hibernate
 
-📂 Repositório  
-https://github.com/pauloviola16/user-management-api
+🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
 
 ---
 
