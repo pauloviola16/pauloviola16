@@ -74,16 +74,17 @@ https://github.com/pauloviola16/user-management-api
 
 ## 📌 Outros Projetos
 
-🔹 **java-fundamentos**  
-Base sólida em lógica, controle de fluxo, métodos, arrays e Programação Orientada a Objetos.
+🔹 [java-fundamentos](https://github.com/pauloviola16/java-fundamentos)  
+Base sólida em lógica de programação, controle de fluxo, métodos, arrays e Programação Orientada a Objetos.
 
-🔹 **java-avancado**  
-Collections, Generics e tratamento de exceções aplicados ao backend.
+🔹 [java-avancado](https://github.com/pauloviola16/java-avancado)  
+Aplicação prática de Collections, Generics e tratamento de exceções com foco em desenvolvimento backend.
 
-🔹 **java-persistencia**  
-Estudos sobre SQL, JDBC e JPA, com foco em modelagem relacional, CRUD e integração com MySQL.
+🔹 [java-persistencia](https://github.com/pauloviola16/java-persistencia)  
+Estudos de SQL, JDBC e JPA, com foco em modelagem relacional, operações CRUD e integração com MySQL.
 
-🔹 **Spring-Boot** 
+🔹 [spring-boot](https://github.com/pauloviola16/spring-boot)  
+Desenvolvimento de aplicações backend com Spring Boot, incluindo criação de APIs REST, arquitetura em camadas (Controller, Service, Repository), integração com banco de dados utilizando JPA e boas práticas de desenvolvimento.
 
 ---
 
