@@ -47,6 +47,7 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**, aplicando arquitetura em camadas e boas práticas de mercado.
 
 **Destaques:**
+- Estrutura em camadas (Controller, Service, Repository)
 - CRUD completo de pedidos
 - Uso de DTOs (Request/Response)
 - Validação de dados e tratamento de exceções
@@ -65,7 +66,6 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - CRUD completo de usuários
 - Estrutura em camadas (Controller, Service, Repository)
 - Persistência com JPA/Hibernate
-- Testes de endpoints com Postman
 
 📂 Repositório  
 https://github.com/pauloviola16/user-management-api
