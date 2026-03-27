@@ -1,6 +1,6 @@
 # Paulo Viola 👨‍💻
 
-Desenvolvedor Backend Java em formação 🚀  
+Desenvolvedor Backend Java em formaçã 🚀  
 Foco em APIs REST, persistência de dados e boas práticas de código.
 
 Construindo base sólida em lógica, Programação Orientada a Objetos e desenvolvimento backend com Java.
