@@ -1,20 +1,16 @@
 # Paulo Viola 👨‍💻
-
 Desenvolvedor Backend Java em formação🚀  
 Foco em APIs REST, persistência de dados e boas práticas de código.
-
 Construindo base sólida em lógica, Programação Orientada a Objetos e desenvolvimento backend com Java.
 
 ---
 
 ## 🎯 Objetivo
-
 Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, aplicando conhecimentos em **Java, APIs REST e desenvolvimento com Spring Boot**.
 
 ---
 
 ## 🛠 Stack Atual
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
@@ -35,7 +31,6 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 ---
 
 ## 📊 Estatísticas do GitHub
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight)
 
 ---
@@ -43,7 +38,6 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 ## 🚀 Projetos em Destaque
 
 ### 📦 Order Management API
-
 API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**, aplicando arquitetura em camadas e boas práticas de mercado.
 
 **Destaques:**
@@ -52,26 +46,28 @@ API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**,
 - Uso de DTOs (Request/Response)
 - Validação de dados e tratamento de exceções
 - Integração com MySQL via JPA/Hibernate
+- Documentação interativa com Swagger UI
+- Imagem publicada no Docker Hub
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/order-management-api)
 
 ---
 
 ### 👤 User Management API
-
 API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas.
 
 **Destaques:**
 - CRUD completo de usuários
 - Estrutura em camadas (Controller, Service, Repository)
 - Persistência com JPA/Hibernate
+- Documentação interativa com Swagger UI
+- Imagem publicada no Docker Hub
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
 
 ---
 
 ## 📌 Outros Projetos
-
 🔹 [java-fundamentos](https://github.com/pauloviola16/java-fundamentos)  
 Base sólida em lógica de programação, controle de fluxo, métodos, arrays e Programação Orientada a Objetos.
 
@@ -87,7 +83,6 @@ Desenvolvimento de aplicações backend com Spring Boot, incluindo criação de 
 ---
 
 ## 📫 Contato
-
 📍 Rio de Janeiro - RJ  
 📧 pcviola.dev@gmail.com  
 💼 LinkedIn: linkedin.com/in/paulo-viola
