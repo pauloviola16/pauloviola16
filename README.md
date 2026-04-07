@@ -31,8 +31,7 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 ---
 
 ## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight&hide=javascript,go,shell)
 ---
 
 ## 🚀 Projetos em Destaque
