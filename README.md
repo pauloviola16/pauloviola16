@@ -17,17 +17,18 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![JUnit](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-5-78A641?style=for-the-badge&logo=java&logoColor=white)
 
 - Java 8+
-- Programação Orientada a Objetos (POO)
-- Collections & Streams
-- Tratamento de exceções
-- SQL / MySQL
-- JDBC
-- JPA
+- Desenvolvimento de APIs REST
 - Spring Boot
+- JPA / Hibernate
+- SQL / MySQL
+- Testes unitários (JUnit, Mockito)
+- Docker
 - Git & GitHub
-
+  
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -61,6 +62,7 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - Persistência com JPA/Hibernate
 - Documentação interativa com Swagger UI
 - Imagem publicada no Docker Hub
+- Testes unitários com JUnit 5 e Mockito (camada de Service)
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
 
