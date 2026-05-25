@@ -70,20 +70,29 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 
 ---
 
-## 📌 Outros Projetos
-🔹 [java-fundamentos](https://github.com/pauloviola16/java-fundamentos)  
-Base sólida em lógica de programação, controle de fluxo, métodos, arrays e Programação Orientada a Objetos.
+## 📦 Projeto Complementar
 
-🔹 [java-avancado](https://github.com/pauloviola16/java-avancado)  
-Aplicação prática de Collections, Generics e tratamento de exceções com foco em desenvolvimento backend.
+### 📦 Order Management API
+API REST para gerenciamento de pedidos desenvolvida com Java e Spring Boot.
 
-🔹 [java-persistencia](https://github.com/pauloviola16/java-persistencia)  
-Estudos de SQL, JDBC e JPA, com foco em modelagem relacional, operações CRUD e integração com MySQL.
+**Destaques:**
+- CRUD completo de pedidos
+- Arquitetura em camadas
+- Integração com MySQL utilizando JPA/Hibernate
+- Swagger/OpenAPI
+- Docker Hub
+- Uso de DTOs e validações
 
-🔹 [spring-boot](https://github.com/pauloviola16/spring-boot)  
-Desenvolvimento de aplicações backend com Spring Boot, incluindo criação de APIs REST, arquitetura em camadas (Controller, Service, Repository), integração com banco de dados utilizando JPA e boas práticas de desenvolvimento.
+🔗 [Acessar repositório](https://github.com/pauloviola16/order-management-api)
 
 ---
+
+## 📚 Estudos e Práticas
+
+- [java-fundamentos](https://github.com/pauloviola16/java-fundamentos) — lógica de programação, estruturas básicas e Programação Orientada a Objetos.
+- [java-avancado](https://github.com/pauloviola16/java-avancado) — Collections, Generics e tratamento de exceções.
+- [java-persistencia](https://github.com/pauloviola16/java-persistencia) — SQL, JDBC, JPA e modelagem relacional com MySQL.
+- [spring-boot](https://github.com/pauloviola16/spring-boot) — APIs REST, arquitetura backend e integração com banco de dados utilizando Spring Boot.
 
 ## 📫 Contato
 📍 Rio de Janeiro - RJ  
