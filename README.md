@@ -37,24 +37,25 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, apli
 
 ## 🚀 Projetos em Destaque
 
-### 📦 Order Management API
-API REST para gerenciamento de pedidos, desenvolvida com **Java e Spring Boot**, aplicando arquitetura em camadas e boas práticas de mercado.
+### 🛵 Motoboy Management System
+Sistema backend para gerenciamento e automatização de escalas de motoboys, desenvolvido com **Java e Spring Boot**, focado em regras operacionais e organização logística.
 
 **Destaques:**
-- Estrutura em camadas (Controller, Service, Repository)
-- CRUD completo de pedidos
-- Uso de DTOs (Request/Response)
-- Validação de dados e tratamento de exceções
-- Integração com MySQL via JPA/Hibernate
+- Gestão de motoboys, lojas e escalas
+- Relacionamento entre entidades com JPA/Hibernate
+- Arquitetura em camadas (Controller, Service, Repository)
+- CRUD completo e APIs REST
+- Integração com MySQL
 - Documentação interativa com Swagger UI
-- Imagem publicada no Docker Hub
+- Regras de negócio aplicadas a um cenário operacional real
+- Projeto em desenvolvimento contínuo
 
-🔗 [Acessar repositório](https://github.com/pauloviola16/order-management-api)
+🔗 [Acessar repositório](https://github.com/seuusuario/motoboy-management-system)
 
 ---
 
 ### 👤 User Management API
-API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas.
+API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas e boas práticas de desenvolvimento backend.
 
 **Destaques:**
 - CRUD completo de usuários
@@ -62,7 +63,8 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - Persistência com JPA/Hibernate
 - Documentação interativa com Swagger UI
 - Imagem publicada no Docker Hub
-- Testes unitários com JUnit 5 e Mockito (camada de Service)
+- Testes unitários com JUnit 5 e Mockito
+- Uso de DTOs e tratamento de exceções
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
 
