@@ -50,7 +50,7 @@ Sistema backend para gerenciamento e automatização de escalas de motoboys, des
 - Regras de negócio aplicadas a um cenário operacional real
 - Projeto em desenvolvimento contínuo
 
-🔗 [Acessar repositório](https://github.com/seuusuario/motoboy-management-system)
+🔗 [Acessar repositório]((https://github.com/pauloviola16/motoboy-management-system))
 
 ---
 
