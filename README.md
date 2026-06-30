@@ -6,7 +6,7 @@ Construindo base sólida em lógica, Programação Orientada a Objetos e desenvo
 ---
 
 ## 🎯 Objetivo
-Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, aplicando conhecimentos em **Java, APIs REST e desenvolvimento com Spring Boot**.
+Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando conhecimentos em **Java, APIs REST, SQL e desenvolvimento com Spring Boot**.
 
 ---
 
