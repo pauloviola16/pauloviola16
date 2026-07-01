@@ -1,7 +1,9 @@
 # Paulo Viola 👨‍💻
-Desenvolvedor Backend Java em formação🚀  
-Foco em APIs REST, persistência de dados e boas práticas de código.
-Construindo base sólida em lógica, Programação Orientada a Objetos e desenvolvimento backend com Java.
+Desenvolvedor Backend Java em formação 🚀
+
+Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
+
+Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker e testes unitários.
 
 ---
 
@@ -13,21 +15,23 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 ## 🛠 Stack Atual
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![JUnit](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-5-78A641?style=for-the-badge&logo=java&logoColor=white)
 
-- Java 8+
-- Desenvolvimento de APIs REST
+- Java
 - Spring Boot
+- Spring Security
+- APIs REST
 - JPA / Hibernate
 - SQL / MySQL
-- Testes unitários (JUnit, Mockito)
+- Bean Validation
 - Docker
 - Git & GitHub
+- Testes Unitários (JUnit 5 e Mockito)
   
 ---
 
@@ -42,13 +46,13 @@ Sistema backend para gerenciamento e automatização de escalas de motoboys, des
 
 **Destaques:**
 - Gestão de motoboys, lojas e escalas
-- Relacionamento entre entidades com JPA/Hibernate
-- Arquitetura em camadas (Controller, Service, Repository)
-- CRUD completo e APIs REST
-- Integração com MySQL
-- Documentação interativa com Swagger UI
-- Regras de negócio aplicadas a um cenário operacional real
-- Projeto em desenvolvimento contínuo
+- APIs REST com Spring Boot
+- Spring Security com autenticação e proteção de rotas
+- DTOs, Bean Validation e tratamento global de exceções
+- Arquitetura em camadas (Controller, Service e Repository)
+- Persistência com JPA/Hibernate e MySQL
+- Documentação automática com Swagger/OpenAPI
+- Interface web com Thymeleaf e Bootstrap
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/motoboy-management-system)
 
@@ -67,23 +71,6 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - Uso de DTOs e tratamento de exceções
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
-
----
-
-## 📦 Projeto Complementar
-
-### 📦 Order Management API
-API REST para gerenciamento de pedidos desenvolvida com Java e Spring Boot.
-
-**Destaques:**
-- CRUD completo de pedidos
-- Arquitetura em camadas
-- Integração com MySQL utilizando JPA/Hibernate
-- Swagger/OpenAPI
-- Docker Hub
-- Uso de DTOs e validações
-
-🔗 [Acessar repositório](https://github.com/pauloviola16/order-management-api)
 
 ---
 
