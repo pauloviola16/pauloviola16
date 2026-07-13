@@ -3,7 +3,7 @@ Desenvolvedor Backend Java em formação 🚀
 
 Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
 
-Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários e metodologias ágeis
+Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários, Scrum e Kanban
 
 ---
 
@@ -31,6 +31,7 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 - Bean Validation
 - Docker
 - Git & GitHub
+- Metodologias Ágeis (Scrum, Kanban)
 - Testes Unitários (JUnit 5 e Mockito)
   
 ---
@@ -53,6 +54,7 @@ Sistema backend para gerenciamento e automatização de escalas de motoboys, des
 - Persistência com JPA/Hibernate e MySQL
 - Documentação automática com Swagger/OpenAPI
 - Interface web com Thymeleaf e Bootstrap
+- Desenvolvimento organizado em sprints, com board Kanban para gestão de tarefas
 
 🔗 [Acessar repositório](https://github.com/pauloviola16/motoboy-management-system)
 
