@@ -23,16 +23,15 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 - Java
-- Spring Boot
-- Spring Security
+- Spring Boot & Spring Security
 - APIs REST
 - JPA / Hibernate
 - SQL / MySQL
-- Bean Validation
+- HTML, CSS & Thymeleaf
 - Docker
 - Git & GitHub
-- Metodologias Ágeis (Scrum, Kanban)
-- Testes Unitários (JUnit 5 e Mockito)
+- Testes Unitários (JUnit 5, Mockito)
+- Metodologias Ágeis (Scrum, Scrumban)
   
 ---
 
