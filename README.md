@@ -3,7 +3,7 @@ Desenvolvedor Backend Java em formação 🚀
 
 Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
 
-Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker e testes unitários.
+Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários e metodologias ágeis
 
 ---
 
