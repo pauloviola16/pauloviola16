@@ -31,7 +31,7 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 - Docker
 - Git & GitHub
 - Testes Unitários (JUnit 5, Mockito)
-- Metodologias Ágeis (Scrum, Scrumban)
+- Metodologias Ágeis (Scrum, Kanban)
   
 ---
 
