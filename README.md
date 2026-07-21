@@ -1,17 +1,16 @@
 # Paulo Viola 👨‍💻
 Desenvolvedor Backend Java em formação 🚀
 
-Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
+🟢 Aberto a oportunidades de estágio em desenvolvimento 
 
+Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
 Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários, Scrum e Kanban
 
 ---
-
 ## 🎯 Objetivo
 Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando conhecimentos em **Java, APIs REST, SQL e desenvolvimento com Spring Boot**.
 
 ---
-
 ## 🛠 Stack Atual
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -32,13 +31,12 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 - Git & GitHub
 - Testes Unitários (JUnit 5, Mockito)
 - Metodologias Ágeis (Scrum, Kanban)
-  
----
 
+---
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight&hide=javascript,go,shell)
----
 
+---
 ## 🚀 Projetos em Destaque
 
 ### 🛵 Motoboy Management System
@@ -58,7 +56,6 @@ Sistema backend para gerenciamento e automatização de escalas de motoboys, des
 🔗 [Acessar repositório](https://github.com/pauloviola16/motoboy-management-system)
 
 ---
-
 ### 👤 User Management API
 API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas e boas práticas de desenvolvimento backend.
 
@@ -74,15 +71,13 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
 
 ---
-
 ## 📚 Estudos e Práticas
-
 - [java-fundamentos](https://github.com/pauloviola16/java-fundamentos) — lógica de programação, estruturas básicas e Programação Orientada a Objetos.
 - [java-avancado](https://github.com/pauloviola16/java-avancado) — Collections, Generics e tratamento de exceções.
 - [java-persistencia](https://github.com/pauloviola16/java-persistencia) — SQL, JDBC, JPA e modelagem relacional com MySQL.
 - [spring-boot](https://github.com/pauloviola16/spring-boot) — APIs REST, arquitetura backend e integração com banco de dados utilizando Spring Boot.
 
 ## 📫 Contato
-📍 Rio de Janeiro - RJ  
-📧 pcviola.dev@gmail.com  
-💼 LinkedIn: linkedin.com/in/paulo-viola
+📍 Rio de Janeiro - RJ
+📧 pcviola.dev@gmail.com
+💼 LinkedIn: [linkedin.com/in/paulo-viola](https://linkedin.com/in/paulo-viola)
