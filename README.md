@@ -1,11 +1,16 @@
 # Paulo Viola 👨‍💻
+
 Desenvolvedor Backend Java em formação 🚀
+
 🟢 Aberto a oportunidades de estágio em desenvolvimento
+
 Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
 Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários, Scrum e Kanban
+
 ---
 ## 🎯 Objetivo
-Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando conhecimentos em **Java, APIs REST, SQL e desenvolvimento com Spring Boot**.
+Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando conhecimentos em **Java, APIs REST, SQL e desenvolvimento com Spring Boot.**
+
 ---
 ## 🛠 Stack Atual
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
