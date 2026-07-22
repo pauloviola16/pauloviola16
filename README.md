@@ -1,15 +1,11 @@
 # Paulo Viola 👨‍💻
 Desenvolvedor Backend Java em formação 🚀
-
-🟢 Aberto a oportunidades de estágio em desenvolvimento 
-
+🟢 Aberto a oportunidades de estágio em desenvolvimento
 Foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando boas práticas de arquitetura, persistência de dados e segurança de aplicações.
 Experiência prática com Spring Security, JPA/Hibernate, MySQL, Docker, testes unitários, Scrum e Kanban
-
 ---
 ## 🎯 Objetivo
 Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando conhecimentos em **Java, APIs REST, SQL e desenvolvimento com Spring Boot**.
-
 ---
 ## 🛠 Stack Atual
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -20,7 +16,6 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 - Java
 - Spring Boot & Spring Security
 - APIs REST
@@ -31,17 +26,13 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 - Git & GitHub
 - Testes Unitários (JUnit 5, Mockito)
 - Metodologias Ágeis (Scrum, Kanban)
-
 ---
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight&hide=javascript,go,shell)
-
 ---
 ## 🚀 Projetos em Destaque
-
 ### 🛵 Motoboy Management System
 Sistema backend para gerenciamento e automatização de escalas de motoboys, desenvolvido com **Java e Spring Boot**, focado em regras operacionais e organização logística.
-
 **Destaques:**
 - Gestão de motoboys, lojas e escalas
 - APIs REST com Spring Boot
@@ -52,13 +43,10 @@ Sistema backend para gerenciamento e automatização de escalas de motoboys, des
 - Documentação automática com Swagger/OpenAPI
 - Interface web com Thymeleaf e Bootstrap
 - Desenvolvimento organizado em sprints, com board Kanban para gestão de tarefas
-
-🔗 [Acessar repositório](https://github.com/pauloviola16/motoboy-management-system)
-
+🔗 [Acessar repositório](https://github.com/pauloviola16/motoboy-management-system) | 🌐 [Ver demo](https://motoboy-management-system-production.up.railway.app)
 ---
 ### 👤 User Management API
 API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**, seguindo arquitetura em camadas e boas práticas de desenvolvimento backend.
-
 **Destaques:**
 - CRUD completo de usuários
 - Estrutura em camadas (Controller, Service, Repository)
@@ -67,16 +55,13 @@ API REST para gerenciamento de usuários desenvolvida com **Java e Spring Boot**
 - Imagem publicada no Docker Hub
 - Testes unitários com JUnit 5 e Mockito
 - Uso de DTOs e tratamento de exceções
-
 🔗 [Acessar repositório](https://github.com/pauloviola16/user-management-api)
-
 ---
 ## 📚 Estudos e Práticas
 - [java-fundamentos](https://github.com/pauloviola16/java-fundamentos) — lógica de programação, estruturas básicas e Programação Orientada a Objetos.
 - [java-avancado](https://github.com/pauloviola16/java-avancado) — Collections, Generics e tratamento de exceções.
 - [java-persistencia](https://github.com/pauloviola16/java-persistencia) — SQL, JDBC, JPA e modelagem relacional com MySQL.
 - [spring-boot](https://github.com/pauloviola16/spring-boot) — APIs REST, arquitetura backend e integração com banco de dados utilizando Spring Boot.
-
 ## 📫 Contato
 📍 Rio de Janeiro - RJ
 📧 pcviola.dev@gmail.com
