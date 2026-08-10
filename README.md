@@ -32,8 +32,8 @@ Conquistar minha primeira oportunidade como **Desenvolvedor Backend**, aplicando
 - Testes Unitários (JUnit 5, Mockito)
 - Metodologias Ágeis (Scrum, Kanban)
 ---
-## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight&hide=javascript,go,shell)
+## 📊 Estatísticas do GitHubv
+![Top Langs](https://github-readme-stats-two-kohl-12.vercel.app/api/top-langs/?username=pauloviola16&layout=compact&theme=tokyonight&hide=javascript,go,shell)
 ---
 ## 🚀 Projetos em Destaque
 ### 🛵 Motoboy Management System
