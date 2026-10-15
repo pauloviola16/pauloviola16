@@ -47,13 +47,6 @@ API REST para gerenciamento de usuários, com operações CRUD, arquitetura em c
 
 [Repositório](https://github.com/pauloviola16/user-management-api)
 
-### 📦 Order Management API
-
-API REST para gerenciamento de pedidos, com controle de status, validações e persistência de dados.
-
-**Tecnologias:** Java, Spring Boot e JPA/Hibernate.
-
-[Repositório](https://github.com/pauloviola16/order-management-api)
 
 ## 📚 Estudos
 
