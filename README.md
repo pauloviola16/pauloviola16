@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo Viola! 👨‍💻
 
-**Estagiário de TI | Suporte a Sistemas | Desenvolvimento Backend Java*
+**Estagiário de TI | Suporte a Sistemas | Desenvolvimento Backend Java**
 
 Atualmente atuo como Estagiário de TI, trabalhando com suporte a sistemas, atendimento a clientes, análise de problemas, configurações e integrações.
 
